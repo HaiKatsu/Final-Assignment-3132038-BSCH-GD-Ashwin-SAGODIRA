@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Enemy
+  - GroundTileMap
+  - Game Manager
+  - Apple
+  - SpawnPoint
+  - CheckPoint
+  - TryAgainButton
+  - ExitButton
+  - EndingText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1356411017
+    locked: 0
+  - name: back layer
+    uniqueID: 1689777123
+    locked: 0
+  - name: Basic Entity
+    uniqueID: 350409909
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
